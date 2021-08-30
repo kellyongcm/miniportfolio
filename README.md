@@ -5,7 +5,8 @@ Example data science portfolio
 - built client using flask api
 - did XX
 
-- ![alt text](https://github.com/kellyongcm/resale_analysis/blob/main/img/MRT_proximity_CCK.png)
+- ![alt text](https://github.com/kellyongcm/resale_analysis/blob/main/img/MRT_proximity_overall.png)
+- ![bedok](https://github.com/kellyongcm/resale_analysis/blob/main/img/MRT_proximity_Bedok.png)
 
 ## cant load on main
 
